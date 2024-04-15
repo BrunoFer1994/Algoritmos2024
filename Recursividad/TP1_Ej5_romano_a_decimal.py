@@ -1,4 +1,4 @@
-# 5. Desarrollar una función que permita convertir un número romano en un número decimal.
+# 5. Desarrollar una función que permita convertir un número romano en un número decimal. 
 
 def romano_a_decimal(nromano):
     romanos = {'I':1, 'V':5, 'X':10, 'L':50, 'C':100, 'D':500, 'M':1000}
